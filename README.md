@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yolac
 - 👀 I’m interested in Aeronautic
-- 🌱 I’m currently developping in LUA for FiveM
+- 🌱 I’m currently developping in LUA on FiveM
 - 📫 How to reach me Discord: Yolac#7820
 
 <!---
